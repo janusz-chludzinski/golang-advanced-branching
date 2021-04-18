@@ -194,7 +194,6 @@ func checkMethod(methodName, name string) bool {
 	return foundMethod
 }
 
-
 // Task 10
 func checkForWithinMain(funcName, key, value, x string) bool {
 	foundFor := false
